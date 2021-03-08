@@ -1,0 +1,37 @@
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+section.header{
+    background: url('../assets/image/Sushi_top.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+section.header .header-content .container{
+    height: 150vh;
+}
+
+.head-content{
+    width: 600px;
+    color: aliceblue;
+}
+
+.head-content h1{
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.head-content button{
+    background-color: deepskyblue;
+    border: none;
+    padding : 15px;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 30px;
+}
